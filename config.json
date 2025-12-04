@@ -1,0 +1,7 @@
+{
+    "url": "https://www.imdb.com/chart/top/",
+    "user_agent": "Mozilla/5.0",
+    "db_name": "data/imdb.db",
+    "n_filmes": 25,
+    "n_series": 2
+}
